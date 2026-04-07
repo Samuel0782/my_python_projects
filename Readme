@@ -6,9 +6,9 @@ A fully functional digital banking system built with Python and SQLite. This pro
 
 [![Watch the Demo](demo-thumbnail.png)](https://youtu.be/your-video-link)
 
-*Click the image to watch a 3-minute walkthrough*
+*Click the link above to watch a 3-minute walkthrough*
 
-##  Features
+## Features
 
 ### Security & Authentication
 - User login with 4-digit PIN validation
