@@ -43,6 +43,10 @@ A fully functional digital banking system built with Python and SQLite. This pro
 - Transaction logs never lost
 
 ##  Quick Start
+## Demo users:
+1.Lucy, Pin:1209
+2.Dave, Pin:2109
+3.Sandy, Pin:3209
 
 ### Prerequisites
 ```bash
