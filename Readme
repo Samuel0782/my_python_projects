@@ -1,0 +1,50 @@
+# 🏦 SAB Digital Banking System
+
+A fully functional digital banking system built with Python and SQLite. This project demonstrates the intersection of **financial accounting principles** and **software development**.
+
+## 🎥 Demo
+
+[![Watch the Demo](demo-thumbnail.png)](https://youtu.be/your-video-link)
+
+*Click the image to watch a 3-minute walkthrough*
+
+##  Features
+
+### Security & Authentication
+- User login with 4-digit PIN validation
+- Secure access to individual accounts
+- Input sanitization and error handling
+
+### Account Management
+- Available Balance (spending account)
+- Savings Account
+- Expenses Tracking
+- Car Insurance
+- Income Account
+- Medical Bills
+
+### Transaction Processing
+- Deposit to Income account
+- Transfer from Income to Available Balance
+- Payments to Savings, Expenses, Insurance, Medical Bills
+- Beneficiary payments (Ivy, Brand, Dave, Quinton)
+- Real-time balance updates
+
+### Audit & Reporting
+- Complete transaction history
+- Mini statement generation
+- Timestamp logging for all transactions
+- Balance verification after each transaction
+
+### Data Persistence
+- SQLite database integration
+- Multi-user support
+- Data survives program restarts
+- Transaction logs never lost
+
+##  Quick Start
+
+### Prerequisites
+```bash
+Python 3.8 or higher
+No external dependencies required (SQLite built-in)
