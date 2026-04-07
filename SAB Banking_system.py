@@ -4,7 +4,7 @@ from datetime import datetime
 
 def setup_database():
     """Create database and tables if they don't exist"""
-    conn = sqlite3.connect('sab_banking.db')
+    conn = sqlite3.connect('SAB_banking.db')
     cursor = conn.cursor()
     
     # Drop existing tables if they exist (clean slate)
